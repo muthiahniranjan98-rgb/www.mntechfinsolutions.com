@@ -1,0 +1,1 @@
+Office gallery on homepage, About and Contact. Google Maps links now use the identified BVN & Associates, Chartered Accountants place ID at No. 24, 16th Avenue, Kaniappa Nagar, Ashok Nagar, Chennai 600083. MN Tech Finsolutions is listed as second floor; confirm entrance details before public launch. No live deployment performed.
